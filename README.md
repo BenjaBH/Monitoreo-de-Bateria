@@ -1,4 +1,5 @@
 # Monitoreo de Batería IoT
+Benjamin Badilla, Desarrollo de Software para Hardware, Inacap Santiago Sur
 
 Proyecto de la asignatura DCSH01, Evaluación Sumativa 3. Sistema que mide el estado de una batería en tiempo real y muestra los datos en una página web, guardando cada lectura en una base de datos en la nube.
 
